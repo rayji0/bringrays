@@ -1,0 +1,214 @@
+
+body
+    {
+        background-image:url(/RnwnIzX.gif); /*Putting Background image to the body*/
+        /*NOTE:- If the image URL not working than put 2 dots before the image and the folder contaning the image for root search like shown above*/
+        background-size:cover; /*Letting the image cover the body*/
+        background-repeat:no-repeat; /*Letting the imaget not to repeat itself*/
+        background-color:paleturquoise;
+    }
+.profile
+    {
+        width:80px;
+        position:absolute;
+        left:250px;        
+        opacity:100%;
+    }
+h3
+    {
+        position:absolute;
+        left:335px;
+        top:20px;
+        color:white;
+    }
+.info
+    {
+        display:inline;
+    }
+.h1
+    {
+        width:200px;    /*Defining the width and height of the <H1> and <P> tag*/
+        color:#66bfbf;  /*Defining the color of the text of <H1> and <p> tag*/
+        text-align:center;  /*Defining the alignment of the text should be on center*/
+        position:absolute;
+        left:565px;
+        top:50px;
+        font-family:"brush script MT",sarif;   /*Definging the font of the text.*/
+        font-size:35px;     /*Text or font size*/
+        font-weight: 100;
+    }
+.p
+    {
+        width:200px;
+        color:#66bfbf;
+        text-align:center;
+        position:absolute;
+        left:565px;
+        top:84px;
+        font-family:"brush script MT",sans-serif;
+        font-size:25px;
+        font-display:unset;
+    }
+.container
+    {    
+        background-image:url(../images/RnwnIzX.gif);
+        background-size:cover;
+        width:100%;
+        height:600px;
+        position:absolute;
+        top:0em;
+        left:0em;
+    }
+.topship
+    {
+        width:100px;
+        height:100px;
+        position:absolute;
+        left:44.9em;
+        top:3em;
+        border-radius:100%;     /*Defining the radious of the box*/
+        background-image:url(../images/Rocket.gif);
+        background-size:contain;
+        /*background-color:#5a7df1;*/ 
+        /*background-blend-mode: multiply;*/ /*This action shall multiply the background color and the background image */
+        opacity:100%;    /*This will perform the opacity of the background color */
+        
+    }    
+.Middle_ship
+    {
+        width:50px;
+        height:50px;
+        position:absolute;
+        top:200px;
+        border-radius:100%;
+        background-image:url(../images/moving_ship.gif);
+        background-size:contain;
+        opacity:60%;
+    }
+.Bottom_ship
+    {
+        width:90px;
+        height:90px;
+        position:absolute;
+        left:25.7em;
+        top:-1.5em;
+        border-radius:100%;
+        background-image:url(../images/fixed_ship.gif);
+        background-size:contain;
+        opacity:70%;
+    }
+.about
+    {
+        width:auto;
+        height:600px;
+        position:absolute;
+        top:32em; 
+        left:26em;
+        text-align: center;
+        -moz-box-align: center;       
+    }
+.WICD
+    {
+        background-color: paleturquoise;
+        background-size: cover;
+        width:19em;
+        height:15em;
+        text-align:center;
+        font-size:1.5em;
+        font-family:sans-serif;
+        position:absolute;
+        left:18em;
+        top:43em;
+    }
+.WICD_me
+    {
+        width:150px;
+        height:150px;
+        position:absolute;
+        left:-2em;   
+    }
+.coding
+    {
+        border:solid darkgrey;
+        border-radius:100%;
+        width:60px;
+        height:60px;
+        position:absolute;
+        top:2em;
+        left:5em;
+    }
+.WICD_h1
+    {
+        color:lightslategray;
+        position:absolute;
+        left:2em;
+        top:-2em;
+        font-family:serif;
+    }
+.p1
+    {
+        text-align:center;
+        color:darkcyan;
+        width:500px;
+        height:250px;
+        position:absolute;
+        left:10em;
+    }
+
+.about_p
+    {
+        text-align:center;
+        color:darkcyan;
+        width:500px;
+        height:2px;
+        font-size:1.5em;
+        font-family:sans-serif;
+    }
+
+.container-2
+    {
+        width:1320;
+        height:400px;
+        position:absolute;
+        top:14.5in;
+        text-align: center;
+        font-size:1.5em;
+        font-family:sans-serif;
+    }
+.p2
+    {
+        width:500px;
+        text-align:center;
+        color:darkcyan;
+        position:absolute;
+        top:30px;
+        left:250px;
+    }
+.container_h1
+    {
+        text-align: center;
+        width: 500px;
+        color:lightslategray;
+        position:absolute;
+        left:9em;
+        top:-2em;
+        font-family:serif;
+    }
+.container-2_me
+    {
+        width:150px;
+        height:150px;
+        position:absolute;
+        top: 0px;
+        left:930px;
+    }
+.coding2
+    {
+        border:solid darkgrey;
+        border-radius:100%;
+        width:60px;
+        height:60px;
+        position:absolute;
+        top:2em;
+        left:35em;
+    }
