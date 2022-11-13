@@ -212,3 +212,18 @@ h3
         top:2em;
         left:35em;
     }
+.bottom_container
+    {
+        background-color:#66bfbf;
+        text-align:center;
+        width:1347px;
+        height:100px;
+        color:darkslategray;
+        position:absolute:
+            top:18in;
+            left:0;
+    }
+.footer-link
+    {
+        text-decoration:none;
+    }
